@@ -1,7 +1,7 @@
 {
   "name": "react-portfolionew",
   "version": "0.1.0",
-  "homepage": "https://saiprakashgorti.github.io/react-portfolionew",
+  "homepage": "https://saiprakashgorti.github.io/saiprakashgorti/react-portfolionew",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
